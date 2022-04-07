@@ -1,0 +1,2 @@
+# cnn_image_classification
+CNN is mainly used in image analysis tasks like Image recognition, Object detection &amp; Segmentation.CNNs are used for image classification and recognition because of its high accuracy..The CNN follows a hierarchical model which works on building a network, like a funnel, and finally gives out a fully-connected layer where all the neurons are connected to each other and the output is processed.
